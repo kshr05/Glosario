@@ -4,6 +4,8 @@ Glosario para delitos cibernéticos
 #Computadora= Dispositivo electrónico capaz de recibir datos, procesarla y entregar resultados en la forma deseada a través de la ejecución de  cálculos matemáticos 
 #Dato= Representación simbólica de una entidad (caracteres), carecen de valor semántico y de sentido. Son incapaces de transmitir algún mensaje 
 #Información= Nace cuando un dato o conjunto de datos pasan a tener un significado de utilidad para la toma de decisiones 
+#Ciberdelito: Cualquier actividad ilegal que se realiza utilizando computadoras, redes o internet como medio principal.
+#Ciberseguridad: Conjunto de medidas técnicas, legales y organizativas destinadas a proteger sistemas informáticos y datos frente a amenazas digitales
 #Internet= Conexión global de computadoras, permite la mayoría de las comunicaciones actuales
 #Aplicaciones de ofimática= Herramientas como office 365 aplicables en procesos dentro de sectores como el ejecutivo, la industria, el comercio, el servicios, etc.
 #Diseño= Aplicable a medios arquitectónicos, artísticos, etc. a través del diseño asistido por computadora (CAD) y la fabricación asistida por computadora (CAM).
@@ -14,3 +16,6 @@ Glosario para delitos cibernéticos
 #Software= Conjunto de programas, instrucciones y reglas que hacen posible el funcionamiento de un dispositivo electrónico
 #Firmware= Es el programa que inicia y gestiona las funciones esenciales del hardware, como el manejo de la memoria, la interfaz de entrada/salida y la gestión de la energía. 
 #Proxy= Aplicación que actúa como intermediario cuando un cliente solicita consumo de un recurso que se encuentra en un servidor 
+#Ciberataque= Todo esfuerzo intencional para robar, exponer, alterar, deshabilitar o destruir datos, aplicaciones u otros activos a través de un acceso no autorizados a una red, sistema informático o dispositivo digital. 
+#Hacker: Persona experta en informática que puede acceder sin autorización a sistemas, redes o dispositivos. Puede tener connotaciones positivas (hackers éticos) o negativas (crackers).
+#White hat hacker: Hackers éticos, ayudan a mejorar la seguridad de los sistemas por lo general son consultores de seguridad y realizan auditorias a sistema
